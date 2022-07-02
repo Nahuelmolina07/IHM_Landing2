@@ -1,0 +1,98 @@
+.fondosolido {
+    background: linear-gradient(rgba(238, 238, 238, 0.199), rgba(238, 238, 238, 0.199)), url(https://welspunflooring.com/timthumb.php?src=http://welspunflooring.com/productImage/1638787525_Teak%20Brown-1.png&w=675&q=90&h=390);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 100vh;
+    background-attachment: fixed;
+}
+
+.bord {
+    border-bottom: 2px solid #000000;
+}
+
+.breadcrumb-item {
+    color: rgb(0, 0, 0);
+}
+
+.card-title {
+    background: linear-gradient(rgba(90, 90, 90, 0.582), rgba(109, 109, 109, 0.75));
+}
+
+.card-body {
+    color: #000000;
+    background-color: rgb(90, 90, 90, 0.582);
+    min-height: 220px;
+}
+
+.TXTnegro {
+    color: #464646;
+    padding-top: 20px;
+}
+
+.nav-link {
+    background-color: aliceblue;
+}
+
+h2 {
+    text-align: center;
+    color: #000000;
+    font-weight: bold;
+    text-shadow: 0 0 0.2em #ffffff, 0 0 0.2em rgb(0, 0, 0);
+}
+
+.mostrar-cantidad-catalogo {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.DivSillas {
+    text-align: center;
+}
+
+.DivMesas {
+    text-align: center;
+}
+
+.DivSillones {
+    text-align: center;
+}
+
+.DivBibliotecas {
+    text-align: center;
+}
+
+td:hover {
+    background-color: rgba(90, 90, 90, 0.582);
+}
+
+.tabla-registros {
+    margin: auto;
+}
+
+.fondoTXmuebles {
+    background-color: rgb(90, 90, 90, 0.582);
+}
+
+.texto-paginas {
+    color: rgb(0, 0, 0);
+}
+
+footer {
+    background-color: grey;
+    color: darkkhaki;
+    border: solid;
+    border-radius: 10px;
+}
+
+.Info {
+    color: black;
+}
+
+.colortext {
+    color: black;
+}
+
+.fondotransparente {
+    background: linear-gradient(rgba(5, 7, 12, 0.582), rgba(109, 109, 109, 0.75));
+}
