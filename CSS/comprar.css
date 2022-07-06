@@ -1,0 +1,102 @@
+.bodyy {
+    background-color: rgb(10, 10, 10);
+}
+
+.breadcrumb-item {
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+.mostrar-cantidad-catalogo {
+    text-align: center;
+    color: white;
+}
+
+.DivSillas {
+    text-align: center;
+}
+
+.tabla-registros,
+th,
+td,
+tr {
+    border: 1px solid;
+    color: white;
+}
+
+td:hover {
+    background-color: darkkhaki;
+}
+
+.tabla-registros {
+    margin: auto;
+}
+
+.texto-paginas {
+    color: white;
+}
+
+footer {
+    background-color: grey;
+    color: darkkhaki;
+    border: solid;
+}
+
+.Info {
+    color: black;
+}
+
+.py-5 {
+    color: white;
+}
+
+.g-5 {
+    color: white;
+}
+
+.colortext {
+    color: black;
+}
+
+.fondosolido {
+    background: linear-gradient(rgba(238, 238, 238, 0.199), rgba(238, 238, 238, 0.199)), rgb(221, 221, 221);
+}
+
+.fondotransparente {
+    background: linear-gradient(rgba(5, 7, 12, 0.582), rgba(109, 109, 109, 0.75));
+}
+
+.color-text {
+    color: black;
+}
+
+.fondo {
+    background-color: rgb(202, 202, 202);
+    border-radius: 10px;
+}
+
+.menu {
+    text-align: left;
+    margin: 20px;
+}
+
+.menu li {
+    display: inline-block;
+    text-align: left;
+}
+
+.seleccion-color {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(0, 0, 0);
+    padding: 7px;
+    width: 5px;
+    height: 5px;
+    font-size: 10px;
+    border-radius: 100%;
+}

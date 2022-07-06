@@ -1,0 +1,78 @@
+.bodyy {
+    background-color: rgb(10, 10, 10);
+    margin: auto;
+}
+
+.breadcrumb-item {
+    color: white;
+}
+
+main {
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+.mostrar-cantidad-catalogo {
+    text-align: center;
+    color: white;
+}
+
+.DivSillas {
+    text-align: center;
+}
+
+.tabla-registros,
+th,
+td,
+tr {
+    border: 1px solid;
+    color: white;
+}
+
+td:hover {
+    background-color: darkkhaki;
+}
+
+.tabla-registros {
+    margin: auto;
+}
+
+.texto-paginas {
+    color: white;
+}
+
+footer {
+    background-color: grey;
+    color: darkkhaki;
+    border: solid;
+}
+
+.Info {
+    color: black;
+}
+
+.colorr {
+    color: rgba(99, 99, 99, 0.75);
+}
+
+.colortext {
+    color: black;
+}
+
+.fondosolido {
+    background: linear-gradient(rgba(238, 238, 238, 0.199), rgba(238, 238, 238, 0.199)), url(https://welspunflooring.com/timthumb.php?src=http://welspunflooring.com/productImage/1638787525_Teak%20Brown-1.png&w=675&q=90&h=390);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 100vh;
+    background-attachment: fixed;
+}
+
+.fondotransparente {
+    background: linear-gradient(rgba(5, 7, 12, 0.582), rgba(109, 109, 109, 0.75));
+}

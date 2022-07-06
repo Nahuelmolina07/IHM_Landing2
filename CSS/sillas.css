@@ -45,18 +45,6 @@ h2 {
     text-align: center;
 }
 
-.DivMesas {
-    text-align: center;
-}
-
-.DivSillones {
-    text-align: center;
-}
-
-.DivBibliotecas {
-    text-align: center;
-}
-
 td:hover {
     background-color: rgb(202, 202, 202);
 }
